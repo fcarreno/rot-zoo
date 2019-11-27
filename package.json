@@ -1,0 +1,19 @@
+{
+  "name": "rot-zoo",
+  "version": "1.0.0",
+  "description": "Rotunda Zoo Exercise",
+  "main": "zoo.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcarreno/rot-zoo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fcarreno/rot-zoo/issues"
+  },
+  "homepage": "https://github.com/fcarreno/rot-zoo#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
